@@ -1,4 +1,4 @@
-** 1 - Acerca de sistemas de desenvolvimento web, assinale a opção correta.
+* 1 - Acerca de sistemas de desenvolvimento web, assinale a opção correta.
 A
 
 ## 2 - Um programador web foi contratado para desenvolver um site utilizando HTML, CSS, JSP e Servlets. Para tanto, deve usar um servidor escrito em Java, que não é contêiner EJB, mas é utilizado como servlet container, denominado
